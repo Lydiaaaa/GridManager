@@ -7,6 +7,8 @@
 [![npm downloads](https://img.shields.io/npm/dt/gridmanager.svg?style=flat-square)](https://www.npmjs.com/package/gridmanager)
 [![coverage](https://img.shields.io/codecov/c/github/baukh789/GridManager.svg?style=flat-square)](https://codecov.io/gh/baukh789/GridManager)
 
+[![Build Status]
+
 ## 实现功能
 | 功能 | 描述 |
 | -: | :- |
